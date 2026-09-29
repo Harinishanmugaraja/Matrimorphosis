@@ -1,0 +1,4 @@
+Typescript is simply javascript with datatypes
+In Javascript they have explicit datatype and it is dynamically typed but in ts it is statically typed
+During Compilation ts is converted into js file----This process is called compilation and it is done by ts compiler
+Assertion is The compiler assumes that type casting is done
